@@ -1,1 +1,1 @@
-# Proyecto de front de un E-Commerce desarrollado en React. 
+# Proyecto front-end de un E-Commerce desarrollado en React. 
